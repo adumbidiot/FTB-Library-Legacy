@@ -1,0 +1,4 @@
+[submodule "deps/LatLib"]
+	path = deps/LatLib
+	url = https://github.com/LatvianModder/LatLib
+    # Use commit cced3f5a249ed3204e2f2f9119dee3a06908f090

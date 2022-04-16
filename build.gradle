@@ -42,7 +42,7 @@ sourceSets {
     main {
         java {
             srcDir project_dir + archivesBaseName + "/src/main/java"
-            srcDir project_dir + "../LatLib/src"
+            srcDir project_dir + "deps/LatLib/src"
         }
         resources {
             srcDir project_dir + archivesBaseName + "/src/main/resources"
